@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Guess the number
 *[Rianne Rendering]*
 
-*[Your Cohort, Campus & Date]*
+*[DAPTJUN20, Amsterdam & 200717]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,12 +13,17 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+This game is calles 'Guess the number'. The computer will select a number between 0 - 100 and it's up to you to guess which number that is! I chose this game because it's straighforward, but makes it possible to integrate some fun features.
 
 ## Rules
-Briefly describe the rules of the game.
+Guess the secret number the computer selected. If your guess is too high or too low, you'll get a hint. See how many turns it takes you to win!
 
 ## Workflow
+I took the following steps to complete the game:
+1. I did some research about the game and wrote down the rules (luckily there aren't many rules..)
+2. I 'pseudo coded' the game
+
+
 Outline the workflow you used in your project. What are the steps you went through?
 
 ## Organization
