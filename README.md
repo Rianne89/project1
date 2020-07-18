@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Guess the number
-*[Rianne Rendering]*
+Rianne Rendering
 
-*[DAPTJUN20, Amsterdam & 200717]*
+DAPTJUN20, Amsterdam & 200717
 
 ## Content
 - [Project Description](#project-description)
